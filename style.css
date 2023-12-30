@@ -1,0 +1,30 @@
+body{
+	background: #000 url(bg.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: contain;
+}
+
+header, p{
+	padding-top: 150px;
+	font-family: 'Lato', sans-serif;
+	font-family: 'Playfair Display', serif;
+	font-family: 'PT Serif', serif;
+}
+
+h1{
+	font-size: 6rem;
+}
+
+h2{
+	font-family: 'Lato', sans-serif;
+	font-family: 'Playfair Display', serif;
+	font-family: 'PT Serif', serif;
+	font-family: 'Waterfall', cursive;
+	font-size: 5rem;
+}
+p{
+    margin-top: 2rem;
+	font-size: 2rem;
+}
